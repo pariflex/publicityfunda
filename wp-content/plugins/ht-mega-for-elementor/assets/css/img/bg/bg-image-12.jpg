@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=http://3.142.236.96/home/">
+		<meta http-equiv="refresh" content="0;url=https://pariflex.github.io/publicityfunda/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "http://3.142.236.96/home/";
+			window.location = "https://pariflex.github.io/publicityfunda/";
 		</script>
 
-		<p>You are being redirected to <a href="http://3.142.236.96/home/">http://3.142.236.96/home/</a></p>
+		<p>You are being redirected to <a href="https://pariflex.github.io/publicityfunda/">https://pariflex.github.io/publicityfunda/</a></p>
 	</body>
 </html>
